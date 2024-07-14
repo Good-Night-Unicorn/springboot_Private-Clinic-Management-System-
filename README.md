@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/d1f12e3f-b461-44f9-8a48-05849a2deff5)## 基于Springboot+vue协同过滤算法的私人诊所管理系统(源代码+LW+数据库)
+## 基于Springboot+vue协同过滤算法的私人诊所管理系统(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
